@@ -1,4 +1,3 @@
-# This repo is archived
 
 # ForoHub API con Spring Security y JWT
 
